@@ -38,16 +38,16 @@
     <header id="header" class="header fixed-top">
       <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
 
-        <a href="index.html" class="logo d-flex align-items-center">
+        <a href="index.php" class="logo d-flex align-items-center">
           <img src="assets/img/apple-touch-icon.png" alt="">
           <span>duArise</span>
         </a>
 
         <nav id="navbar" class="navbar">
           <ul>
-            <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-            <li><a class="nav-link scrollto" href="#about">About</a></li>
-            <li><a class="nav-link scrollto" href="#services">Services</a></li>
+            <li><a class="nav-link scrollto active" href="index.php#hero">Home</a></li>
+            <li><a class="nav-link scrollto" href="index.php#about">About</a></li>
+            <li><a class="nav-link scrollto" href="index.php#services">Services</a></li>
             <!-- <li><a class="nav-link scrollto" href="#portfolio">Portfolio</a></li> -->
             <!-- <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
             <!-- <li><a href="blog.html">Blog</a></li> -->
@@ -84,7 +84,7 @@
       <div class="container">
 
         <ol>
-          <li><a href="index.html#services">Home</a></li>
+          <li><a href="index.php#services">Home</a></li>
           <li>Exam</li>
         </ol>
         <h2>Exam</h2>
@@ -119,7 +119,7 @@
       <div class="container">
         <div class="row gy-4">
           <div class="col-lg-5 col-md-12 footer-info">
-            <a href="index.html" class="logo d-flex align-items-center">
+            <a href="index.php" class="logo d-flex align-items-center">
               <img src="assets/img/logo.png" alt="">
               <span>EduArise</span>
             </a>
@@ -135,11 +135,11 @@
           <div class="col-lg-2 col-6 footer-links">
             <h4>Useful Links</h4>
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <a href="index.html#hero">Home</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="index.html#about">About us</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="index.html#services">Services</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="index.html#hero">Terms of service</a></li>
-              <li><i class="bi bi-chevron-right"></i> <a href="index.html#hero">Privacy policy</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="index.php#hero">Home</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="index.php#about">About us</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="index.php#services">Services</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="index.php#hero">Terms of service</a></li>
+              <li><i class="bi bi-chevron-right"></i> <a href="index.php#hero">Privacy policy</a></li>
             </ul>
           </div>
 

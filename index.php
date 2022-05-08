@@ -461,7 +461,7 @@
               <i class="ri-file-chart-line icon"></i>
               <h3>Feedback</h3>
               <p>An open platform for collecting various kinds of feedbacks.</p>
-              <a href="feedback.html" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="feedback.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
@@ -471,7 +471,7 @@
               <i class="ri-book-open-line icon"></i>
               <h3>Exam</h3>
               <p>A free platform to manage exams.</p>
-              <a href="exam.html" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
+              <a href="exam.php" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
 
