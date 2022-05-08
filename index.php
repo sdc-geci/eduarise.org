@@ -6,9 +6,14 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>EduArise</title>
-  <meta content="" name="description">
-
-  <meta content="" name="keywords">
+  <meta property="og:title" content="eduarise">
+  <meta name="description" content="EduArise:SDC GECI">
+  <meta property="og:description" content="EduArise:SDC GECI">
+  <meta property="og:image" content="https://eduarise.org/index/assets/img/apple-touch-icon.png">
+  <meta property="og:url" content="https://eduarise.org">
+  <meta name="twitter:card" content="app">
+  <meta name="keywords" content="eduarise,EduArise:SDC GECI">
+  <meta name="author" content="eduarise">
 
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
@@ -452,8 +457,7 @@
                 robust, secure and integrated system to create personalised learning environments.">Moodle is a
                 learning platform designed to provide educators, administrators and learners with a single
                 robust, secure and integrated system to create personalised learning environments.</p>
-              <a href="https://moodle.eduarise.org" target="_blank" class="read-more"><span>Read More</span> <i
-                  class="bi bi-arrow-right"></i></a>
+              <a href="https://moodle.eduarise.org" target="_blank" class="read-more"><span>Read More</span> <i class="bi bi-arrow-right"></i></a>
             </div>
           </div>
           <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
@@ -1276,8 +1280,7 @@
               Government Engineering College <br>
               Painavu, Idukki, <br>
               Kerala - 685603, India. <br><br>
-              <strong>Phone:</strong> <a href="tel:04862233250">04862-233250</a>,<a
-                href="tel:04862232477">04862-232477</a><br>
+              <strong>Phone:</strong> <a href="tel:04862233250">04862-233250</a>,<a href="tel:04862232477">04862-232477</a><br>
               <strong>Email:</strong> <a href="mailto:info@gecidukki.ac.in">info@gecidukki.ac.in</a><br>
             </p>
 
